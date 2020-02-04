@@ -1,0 +1,2 @@
+# angularWithRails
+AngularBaseapplication with rails
